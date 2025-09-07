@@ -7,9 +7,9 @@ This project was developed as part of the **Data Visualization & Cognition** cou
 - [View on Tableau Public](https://public.tableau.com/views/Team44Project/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧭 Project Overview
-- Packaged Tableau workbook: `dashboard/Team_44_Project.twbx`
-- Supplementary documentation (Hebrew): `docs/Project_44_Appendix_HE.pdf`
-- Data sources: public datasets on femicide cases, unemployment rates, and firearm license approvals.
+- Packaged Tableau workbook: `Femicide Data Dashboard.twbx`
+- Supplementary documentation (Hebrew): `Femicide Data Dashboard – Visual Analytics.pdf`
+- Data sources: public datasets on femicide cases (2017–2024), unemployment rates, and firearm license approvals.
 
 ## ⚙️ How to Open
 ### Option 1 – Quick Preview
