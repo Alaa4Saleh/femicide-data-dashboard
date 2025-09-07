@@ -17,14 +17,14 @@ This project was developed as part of the **Data Visualization & Cognition** cou
 
 ### Option 2 – Local (Recommended for recruiters/portfolio)
 1. Install **Tableau Reader** (free) or use Tableau Desktop if available.
-2. Download the file `dashboard/Team_44_Project.twbx`.
+2. Download the file `Femicide Data Dashboard.twbx`.
 3. Open it locally and explore filters (year, region, city) for interactive insights.
 
 ## 🧾 Data Sources (examples)
 - **Femicide incidents (2017–2024):** 172 rows, 26 attributes.  
 - **Unemployment rates by gender:** 23 rows × 3 columns.  
 - **Approved firearm licenses (per year):** 7 rows × 3 columns.  
-*(See `docs/Project_44_Appendix_HE.pdf` for details)*
+*(See `Femicide Data Dashboard – Visual Analytics.pdf` for details)*
 
 ## 🧪 Data Preparation
 - Extracted structured variables from unstructured case descriptions (e.g., relationship to perpetrator, city, age, ethnicity, method of killing).
