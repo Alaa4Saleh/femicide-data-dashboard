@@ -37,4 +37,15 @@ This project was developed as part of the **Data Visualization & Cognition** cou
 - Combination of maps, pie charts, bar charts, line charts, and tooltips.
 
 ## 📸 Screenshots
-Add screenshots of the dashboard in `img/` and reference them here:
+
+### Dashboard Overview
+![Overview](img/overview.png)
+
+### Yearly Trends
+![Yearly Trends](img/yearly_trends.png)
+
+### Victims by Age Category
+![Age Categories](img/age_categories.png)
+
+## 🔒 License
+This repository is released under the MIT License (see `LICENSE`).
